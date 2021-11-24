@@ -5,3 +5,16 @@ Jupyter notebooks and other lecture materials developed for the Columbia course 
 
 ### Homeworks 
 Homeworks completed by Ethan Turok (me) in Fall 2021 when the course was taughy by Marc Spiegelman (Columbia).
+
+
+This class covers:
+1. Error Analysis
+2. Root Finding
+3. Interpolation
+4. Numerical Differentiation
+5. Numerical Integration (Quadrature)
+6. Numerical Solutions to ODEs
+7. Numerical Methods for Linear Algebra (SVD, QR Factorization)
+
+
+![alt text](./interpolation_xkcd.png "interpolation comic by xkcd")
