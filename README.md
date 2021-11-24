@@ -6,7 +6,7 @@ Jupyter notebooks and other lecture materials developed for the Columbia course 
 ### Homeworks 
 Homeworks completed by Ethan Turok (me) in Fall 2021 when the course was taughy by Marc Spiegelman (Columbia).
 
-
+### Material
 This class covers:
 1. Error Analysis
 2. Root Finding
@@ -17,4 +17,8 @@ This class covers:
 7. Numerical Methods for Linear Algebra (SVD, QR Factorization)
 
 
+My experience with this course can be summed up by this:
+<img src="interpolation_xkcd.jpg" alt="drawing" width="200"/>
+
 ![alt text](interpolation_xkcd.jpg "interpolation comic by xkcd")
+Source: xkcd comics
