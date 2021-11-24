@@ -17,4 +17,4 @@ This class covers:
 7. Numerical Methods for Linear Algebra (SVD, QR Factorization)
 
 
-![alt text](./interpolation_xkcd.png "interpolation comic by xkcd")
+![alt text](interpolation_xkcd.jpg "interpolation comic by xkcd")
