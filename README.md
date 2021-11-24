@@ -21,5 +21,4 @@ My experience with this course can be summed up by this:
 
 <img src="interpolation_xkcd.jpg" alt="drawing" width="400"/>
 
-![alt text](interpolation_xkcd.jpg "interpolation comic by xkcd")
 Source: xkcd comics
